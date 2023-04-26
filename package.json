@@ -1,0 +1,23 @@
+{
+  "name": "slowhop-project",
+  "version": "1.0.0",
+  "description": "Slowhop project for passing iTechArt knowledge checkup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ui-regression-chrome-headless": "cypress run --browser chrome",
+    "ui-regression-specific-headless": "cypress run --browser chrome --headless --spec \"./cypress/e2e/test/test.cy.js\"",
+    "ui-locally:headless-all": "npm run ui-regression-specific-headless"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0",
+    "cypress-real-events": "^1.7.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress-mochawesome-reporter": "^3.3.0"
+  }
+}

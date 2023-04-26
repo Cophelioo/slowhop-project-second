@@ -1,0 +1,85 @@
+{
+  "company": "Slowhop",
+  "mainTitle": "Leisure is a state of mind",
+  "exploreButtonName": "Explore and book",
+  "sleepingButtonName": "Hop for sleeping",
+  "tripButtonName": "Hop on trip",
+  "workationButtonName": "Hop on workation",
+  "inboxButtonName": "Hop!",
+
+  "inboxTitle": "Delicious goodies straight to your inbox",
+
+  "catalogTitle": "Unique places",
+  "popularPlacesTitle": "Popular places",
+  "lastMinuteTitle": "Last minute",
+  "aboutUsTitle": "About us",
+  "addYourOfferTitle": "Join Slowhop",
+  "languageModalTitle": "Change language",
+
+  "eventFilter": "Events",
+  "eventTypeFilter": "Event type",
+  "holidayFilter": "Holiday",
+  "eventsSlogan": "Inspiring activities and trips with adventure",
+  "ideasSlogan": "OUR INSPIRATIONS FOR YOUR NEXT VACATIONS",
+
+  "remoteTag": "for remote solo work",
+  "workingGroupTag": "for working groups and workshops",
+
+  "navigationTabs": {
+    "places": "PLACES",
+    "events": "Events",
+    "map": "MAP",
+    "ideas": "Ideas",
+    "lastMinute": "LAST MINUTE",
+    "aboutUs": "About us",
+    "addYourOffer": "Add your offer"
+  },
+
+  "profile": {
+    "myBookingRequestsPlace": "Warmia Hytte - domki z prywatnymi saunami",
+    "myTravelsTabs": ["Future trips", "Past trips", "Cancelled"],
+
+    "myTravelsEmptyMessages": {
+      "reason": "It's empty over here.",
+      "message": "When you choose your journey, here you will see all the details of your booking.",
+      "button": "Find a trip"
+    },
+
+    "favoritesTab": "Favorites",
+    "favoritesEmptyMessages": {
+      "reason": "For now, here it is empty.",
+      "message": "You do not have any favorite places yet? When you find something that suits you, click the symbol of the heart to save it.",
+      "button": "Find places"
+    },
+
+    "profileTab": "Profile",
+    "profileTextBox": "Short description",
+    "profileAboutMe": "About me",
+
+    "profilePictureTab": "Profile picture",
+    "profilePictureDescription": "A profile picture is just as important to us as your story. Guests come to you so, such things as the logo of your place or the view from the window will tell them nothing. It can even be a photo from the phone, just make it positive.",
+    "profilePictureButton": "Change photo",
+
+    "settingsTab": "Settings",
+    "contactDataFormular": {
+      "name": "Name",
+      "lastname": "Lastname",
+      "email": "Email",
+      "phoneNumber": "Mobile phone number",
+      "language": "Language"
+    },
+    "contactDataCheckbox": "I would like to receive comments and suggestions from Slowhop",
+
+    "passwordTab": "Password",
+    "changePasswordFormular": {
+      "oldPassword": "Old password",
+      "newPassword": "A new password",
+      "repeatPassword": "Repeat password"
+    },
+
+    "slowhopPolishTitle": "Urlop zaczyna się od",
+    "languagePolishModalTitle": "Zmień język",
+    "polish": "Polski",
+    "english": "English"
+  }
+}

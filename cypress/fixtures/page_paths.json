@@ -1,0 +1,34 @@
+{
+  "profile": {
+    "travels": {
+      "my_booking_requests": "/profile/travels",
+      "future_trips": "/profile/travels/upcoming",
+      "past_trips": "/profile/travels/done",
+      "cancelled": "/profile/travels/cancelled"
+    },
+    "favorite": "/profile/favorite",
+    "profile_about_me": "/profile/about-me",
+    "profile_image": "/profile/image"
+  },
+
+  "settings": {
+    "contact": "/settings/contact",
+    "password": "/settings/pass"
+  },
+  "logout": "/logout",
+  "catalog": {
+    "dashboard": "/catalog",
+    "events": "/catalog/adventures",
+    "map": "/catalog?view=map"
+  },
+  "ideas": "/ideas-and-inspirations",
+  "last_minute": "/last-minute",
+  "add_your_offer": "/join-us",
+  "about_us": "/about-us",
+
+  "polish": "/o-nas",
+  "english": "/about-us",
+
+  "first_gathered_data_file": "cypress/fixtures/first_gathered_data.json",
+  "second_gathered_data_file": "cypress/fixtures/second_gathered_data.json"
+}

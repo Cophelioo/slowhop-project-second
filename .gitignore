@@ -1,0 +1,7 @@
+node_modules
+**/fixtures/first_gathered_data.json
+**/fixtures/second_gathered_data.json
+**/reports
+**/videos
+screenshots
+**/results
